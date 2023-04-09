@@ -4,11 +4,11 @@
 @import "components/status-bar.css";
 @import "components/screen-header.css";
 @import "components/user-comopnents.css";
-@import "components/nav-bar.css";
 @import "components/badge.css";
 @import "components/icon-row.css";
 @import "components/alt-screen-header.css";
-
+@import "components/nav-bar.css";
+@import "components/no-mobile.css";
 
 @import "screens/login.css";
 @import "screens/friends.css";
